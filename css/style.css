@@ -1,0 +1,27 @@
+.col{
+    margin-top: 40px;
+}
+body {
+    margin-bottom: 200px; 
+    background-color: #f2f2f2;
+    font-family: 'baskerville';
+  }
+
+  #ref{
+    margin-top: 1000px;
+    margin-bottom: 1000px;
+  }
+ 
+p{
+    font-size: 20px;
+}
+
+h1{
+    font-size: 45px;
+}
+
+h2{
+    font-size: 30px;
+    font-weight: bold;
+}
+
